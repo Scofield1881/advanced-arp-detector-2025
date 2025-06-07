@@ -3,7 +3,8 @@ from datetime import datetime
 
 # IP-MAC eşleşmelerini tutan sözlük
 ip_mac_table = {
-    "192.168.1.1": "ec:be:5f:c7:85:fd"
+    "192.168.1.1": "ec:be:5f:c7:85:fd",  # Gerçek modem MAC’i
+    "192.168.1.200": "c0:a5:e8:56:18:87" # Senin bilgisayarın MAC’i
 }
 
 # Her yakalanan ARP paketini işleyen fonksiyon
