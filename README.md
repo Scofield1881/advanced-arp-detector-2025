@@ -135,4 +135,10 @@ Bu proje MIT Lisansı ile lisanslanmıştır. Ayrıntılar için `LICENSE` dosya
 Sorularınız veya geri bildirimleriniz için Ferhat AKDEMİR ile ferhatakdemir870@gmail.com adresinden iletişime geçin veya GitHub'da bir issue açın.
 
 
+## NOT
+Bu proje temel düzeyde ARP spoofing tespiti sağlasa da, 2025 yılına yönelik gelişmiş uygulamalarda makine öğrenmesi ile desteklenen sistemler tercih edilmektedir. Projenin ileri versiyonlarında, Scapy ile toplanan veriler üzerinde davranışsal analiz yapılması ve ML modelleri ile dinamik tehdit algılama modülü geliştirilmesi planlanmaktadır.
+
+
+
+
 
